@@ -46,7 +46,7 @@ Pense em como foi criar com seus colegas de sala para ser algo divertido e fáci
 | Integrante | Função Principal | Hard Skills (O que fez) | Soft Skills (Como ajudou) |
 | :--- | :--- | :--- | :--- |
 | **Guilherme** | Lógica e Interatividade | Desenvolvimento do **JavaScript** (filtros, funções, eventos). | Garantir a funcionalidade e a experiência de usuário. |
-| **Tarso** | Design e Estética | Definição da **Paleta de Cor** e do **Layout** (estrutura visual). | Manter a consistência visual do projeto. |
+| **~Tarso~** | Design e Estética | Definição da **Paleta de Cor** e do **Layout** (estrutura visual). | Manter a consistência visual do projeto. |
 | **Gustavo** | Mídia e Conteúdo | Busca, edição e otimização das **Imagens** e ícones. | Assegurar a qualidade e o carregamento rápido dos ativos visuais. |
 | **Wilson** | Estrutura Base | Desenvolvimento da **Estrutura HTML** e do **CSS** fundamental. | Criação do alicerce para que todos pudessem construir. |
 | **Lilyth** | Refinamento Visual | Apoio no **Estilo/CSS** e na **Organização** do projeto. | Assegurar a coesão e o detalhe final do estilo. |
