@@ -21,8 +21,7 @@ Vamos a mais uma conquista na sua formação profissional! Este documento resume
 
 * **Rhuan:** sou Rhuan, um jovem determinado, com uma visão clara de melhoria contínua e evolução pessoal. Minhas Hard Skills estão em constante desenvolvimento na área de Web Design, Informática e Comunicação, enquanto minhas Soft Skills — como disciplina, proatividade, atenção aos detalhes e capacidade de pesquisa — me tornam um profissional comprometido em transformar esforço em resultados reais. Meu objetivo é sempre alcançar o próximo nível, aprendendo, evoluindo e construindo um caminho de excelência.
 
-* **Wilson:** *Adicionar uma breve descrição focada em habilidades técnicas ou comportamentais, como a capacidade de estruturar o código ou a liderança em tarefas.*
-
+* **Wilson:** Me chamo Wilson, tenho 18 anos e sou estudante de Web Design. Minha jornada profissional é inspirada por minha vontade de aprender e aprimorar cada vez mais minhas habilidades. Me considero alguém organizado e disciplinado, o que me permite obter sucesso em meus objetivos profissionais e de aprendizado. Possuo experiência com vendas online, inglês intermediário e sei estruturar códigos básicos usando HTML, CSS E JS.
 ---
 
 ## 🎯 Tema do Projeto: O que Entregamos em 3 Minutos
